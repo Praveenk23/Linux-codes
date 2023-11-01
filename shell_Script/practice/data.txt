@@ -1,0 +1,8 @@
+ajay:manager:account:55000:cbr
+Rohan:clerk:account:34000:cbr
+varun:manager:sales:50000:cbr
+amit:manager:account:24000:cbr
+tarun:peon:sales:15000:cbr
+deepak:clerk:sales:34900:cbr
+saurav:peon:sales:34000:cbr
+swapnil:director:purchase:890000:cbr

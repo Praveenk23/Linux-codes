@@ -1,0 +1,16 @@
+www
+accounts
+apt
+api
+test
+home
+index
+ftp
+mail
+qa
+forum
+edu
+admin
+http
+feedback
+admin
